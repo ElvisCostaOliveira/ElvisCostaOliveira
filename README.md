@@ -1,7 +1,7 @@
-<h3> Olá, eu sou Elvis Oliveira! Seja bem vindo(a) ao meu perfil GitHub!</h3> 
+<h3> 🖐️ Olá, eu sou Elvis Oliveira! Seja bem vindo(a) ao meu perfil GitHub!</h3> 
 <h4></h4> 
        
-<h6> #desenvolvimentoweb, #computação, #games, e #tecnologia </h6>
+<h6> #desenvolvimentoweb,💻 #computação, 🎮 #games, e #tecnologia </h6>
   
 ## 
 
@@ -9,14 +9,14 @@
 
 <div>  
 
- Tenho 15 anos de experiência na área de informática e sou atualmente desenvolvedor Java. <br>
+ Tenho 15 anos 👨‍🦳 de experiência na área de informática e sou atualmente desenvolvedor Java. <br>
  Sinto-me realizado em poder criar soluções inovadoras e contribuir para projetos importantes. <br>
  Acredito que a tecnologia é uma área em constante evolução e estou sempre me atualizando <br>
  para acompanhar as mudanças do mercado. Como desenvolvedor Java, é preciso ter habilidades de <br>
  resolução de problemas, pensamento lógico e criatividade para encontrar soluções eficientes, <br>
  e adoro enfrentar esses desafios diariamente. <br>
  
- <i> Redes Sociais: <br></i>
+ <i> Redes Sociais: 📱 <br></i>
  
    <a href="https://www.instagram.com/elvisoliveira1/" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"/></a>
@@ -60,7 +60,7 @@
     
 ## 
 
- <i> Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero. </i><br><br>
+ <i> 🤓 Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero.😉 </i><br><br>
  <img src="https://github.com/ElvisCostaOliveira/ElvisOliveira/blob/main/giphy.gif" width="220">
 <img src="https://github.com/DevNylo/DevNylo/blob/output/github-contribution-grid-snake.svg" width="600"/>
 ##
