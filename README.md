@@ -12,8 +12,8 @@
  Tenho 15 anos 👨‍🦳 de experiência na área de informática e sou atualmente desenvolvedor Java. <br>
  Sinto-me realizado em poder criar soluções inovadoras e contribuir para projetos importantes. <br>
  Acredito que a tecnologia é uma área em constante evolução e estou sempre me atualizando <br>
- para acompanhar as mudanças do mercado. Como desenvolvedor Java, é preciso ter habilidades de <br>
- resolução de problemas, pensamento lógico e criatividade para encontrar soluções eficientes, <br>
+ para acompanhar as mudanças do mercado. Como desenvolvedor Java, é preciso ter habilidades <br>
+ de resolução de problemas, pensamento lógico e criatividade para encontrar soluções eficientes, <br>
  e tenho prazer em enfrentar esses desafios diariamente. <br>
  
  <i> Redes Sociais: 📱 <br></i>
