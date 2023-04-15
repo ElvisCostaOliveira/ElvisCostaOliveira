@@ -14,7 +14,7 @@
  Acredito que a tecnologia é uma área em constante evolução e estou sempre me atualizando <br>
  para acompanhar as mudanças do mercado. Como desenvolvedor Java, é preciso ter habilidades de <br>
  resolução de problemas, pensamento lógico e criatividade para encontrar soluções eficientes, <br>
- e adoro enfrentar esses desafios diariamente. <br>
+ e tenho prazer em enfrentar esses desafios diariamente. <br>
  
  <i> Redes Sociais: 📱 <br></i>
  
