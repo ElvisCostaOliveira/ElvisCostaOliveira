@@ -1,4 +1,7 @@
-<h3> 🖐️ Olá, eu sou Elvis Oliveira! Seja bem vindo(a) ao meu perfil GitHub!</h3> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=456789&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=456789&size=35&center=true&vCenter=true&width=1000&lines=🖐️Olá,+Meu+nome+é+Elvis+Oliveira;Seja+Bem+Vindo(a)+ao+meu+perfil+GitHub!+😉)](https://git.io/typing-svg)
+
 <h4></h4> 
        
 <h6> #desenvolvimentoweb,💻 #computação, 🎮 #games, e #tecnologia </h6>
@@ -64,6 +67,6 @@
  <i> 🤓 Quando tudo está errado e confuso, apague tudo e recomece do zero.😉 </i><br><br>
  <img src="https://github.com/ElvisCostaOliveira/ElvisOliveira/blob/main/giphy.gif" width="220">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="600"/>
-##
   
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=456789&height=120&section=footer"/>       
  
