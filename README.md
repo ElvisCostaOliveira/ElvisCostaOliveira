@@ -32,15 +32,6 @@
  
 ##
  
-<h3> Github Stats: <br></h3>
-  
-<div>
-  <a href="[https://github.com/elviscostaoliveira/](https://github.com/elviscostaoliveira/)"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisCostaOliveira&layout=compact&langs_count=16&theme=tokyonight">       
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ElvisCostaOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  
-</div>
-
 <br>
   
 <div align="center" style="display: inline_block">
