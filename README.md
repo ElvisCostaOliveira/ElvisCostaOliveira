@@ -12,7 +12,7 @@
 
 <div>  
 
- Trabalho a 15 anos na área de informática e sou atualmente desenvolvedor Java. <br>
+ Trabalho a 18 anos na área de informática e sou atualmente desenvolvedor Java. <br>
  Sinto-me realizado em poder criar soluções inovadoras e contribuir para projetos importantes. <br>
  Acredito que a tecnologia é uma área em constante evolução e estou sempre me atualizando <br>
  para acompanhar as mudanças do mercado. Como desenvolvedor Java, é preciso ter habilidades <br>
